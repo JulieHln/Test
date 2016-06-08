@@ -1,1 +1,1 @@
-Model.Root = Hello World 
+Hello World 
